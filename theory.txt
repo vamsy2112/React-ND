@@ -1,0 +1,32 @@
+1. What is Emmet?
+
+An emmet is an extension or a shortcut which gives us the boilerplate of html.
+
+2. Difference between a Library and Framework?
+
+basically library and frameworks are piece of code written by developers to solve a problem but the main difference between both of them is that a library is easy to put into the code while a framework isn't.
+
+3. what is cdn and why we use it?
+
+cdn stands for content delivery network which basically provide us the minified form of links to include react in our project. We have cdn for bootstrap as well. CDN provide us the development builds and prod builds as well.
+
+4. why is react known as react?
+
+Because react is super fast and can handle the changes very smoothly by rendering on the changed part instead of rendering the whole application again, which in turn, takes so much time to load.
+
+5. what is crossorigin in script tag?
+
+Crossorigin is a mechanism which retrieves the files from a third party links or servers.
+
+6. what is difference between react and reactDOM?
+
+react is the core library used to build UI and reactDOM is also a library that allows react to interact with the reactDOM
+
+
+7.what is difference between react.development.js and react.production.js files via CDN?
+
+reac.development.js files are used for the development purpose which are minified versions. whereas react.production.js files are used when we deploy our app into production. These files are much more enhanced and are lighter when compared to dev files.
+
+8. what is async and defer?
+
+async allows the script to run without waiting for other elements in the page and it is asynchronous whereas defer will only execute when the page has finished loading
